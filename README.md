@@ -4,7 +4,7 @@ define("cars", [
   "BMW",
   "Toyota"
 "Nurdaulet"
-"Kanat"
+"Kanat 222222"
 ]);
 echo cars[0];
 ?> 
